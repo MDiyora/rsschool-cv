@@ -29,7 +29,7 @@ function myFunction(a, b) {
 ```
 Experience
 -
-**Royal Educational Center, June, 2021 – September, 2021
+**Royal Educational Center, June, 2021 – September, 2021, 
 Teacher of Mathematics**
 
 Education
