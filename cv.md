@@ -37,7 +37,7 @@ Education
 **Tashkent State University of Economics, 2020 – Present
 BSc in Statistics**
  - Orginizer of workshops, social and educational events.
- - Awardee of 3+ scholarships / challenges.
+ - Awardee ofcholarships / challenges. 3+ s
 
 English
 - 
