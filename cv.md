@@ -12,6 +12,7 @@ Skills
  - Git
  - Python
  - Linux
+ - C++
  - Canva
 
 Code Example
